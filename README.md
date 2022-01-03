@@ -1,13 +1,14 @@
 # GBST-case-study
 
-!
+![images.png](images.png)
+
 
 ## Subheading 1 ##
 
 GBST Holdings Ltd. is a Brisbane based innovative financial technology company focused on providing simplified end to end solutions to clients in an ever complex and heavily regulated financial world. They operate in the wealth management and capital markets domain and have assisted clients from large financial institutions to smaller boutique wealth managers. their IT solution ranges from automated post trade settlement technology for capital market participants to administrative and  
 Dr John Puttick, with his Honorary Doctorate from Queensland University of Technology, has over 40 years of experience in building commercial IT systems, over 30 of which have been at GBST. Although it was founded back in 1983, it was only first listed on the ASX in 2005 and had raised $10M in funding at $1 per share. By the beginning of 2019, GBST was trading at roughly $3.50 per share and had a market capitalisation of AUD$173M and later on the same year, GBST received a takeover offer of EUR$150M by UK wealth management platform FNZ (UK) Ltd. However, the acquisition was rejected by UK watchdog - CMA, who believes the merger could lead to higher prices and reduction in quality of service, leading to the sale of GBST from FNZ to Anchorage Capital partners on 22nd of December 2021.
 
- 
+
 •	The vision and objective of GBST have not changed, their aim is to become the leading financial IT provider to their commercial clientele. 
 •	They provide a range of IT solutions to capital markets and wealth management companies for them to cut cost, improve productivity and enhance their platform user experience. 
 •	GBST provides funds administration and securities transaction software to leading financial services companies, creating front, middle and back end technology solutions for their clients.
