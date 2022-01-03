@@ -1,6 +1,6 @@
 # GBST-case-study
 
-* Insert images
+!
 
 ## Subheading 1 ##
 
