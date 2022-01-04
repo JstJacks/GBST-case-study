@@ -27,10 +27,10 @@ In terms of wealth management offerings, their Composer is a world class adminis
 GBST provides a Software as a Service (SaaS) model via Amazon Web Services (AWS) cloud and has recently joined AWS Partnership Network (APN) within the Independent Software Vendors (ISV) pathway. The APN allows GBST to expedite their engagement with AWS and promote their solutions to customers
  In terms of website development, they have used the below listed technology to power their website:
 
-	> Web servers: IIS & LiteSpeed
-	> Operating systems and servers: Parallels Plesk Panel & QUIC
-	>  Web hosting providers: Over The Wire, Hostopia & Digital Pacific
-	>  JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader & Featherlight
+> - Web servers: IIS & LiteSpeed
+> - Operating systems and servers: Parallels Plesk Panel & QUIC
+> - Web hosting providers: Over The Wire, Hostopia & Digital Pacific
+> - JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader & Featherlight
 
 
 
@@ -47,13 +47,13 @@ Cybersecurity ventures predicted that global cyber security spending has been gr
 
 In terms of competition, below companies are in direct competition with GBST:
   
-> JMR software ( https://www.jmr.co.za/)
+> - JMR software ( https://www.jmr.co.za/)
 JMR software is an IT resource software established in 1987, and have evolved over the years to create their own technology solutions targeted at large enterprises and the financial services sector. Their 2021 revenue is AUD$20M
 	
-> Profile software ( https://www.profilesw.com/)
+> - Profile software ( https://www.profilesw.com/)
 Profile software is an international financial software provider, offering innovative technologies and implementation for modern banks, Fintech & Investment management industries. They operate in 45 countries with over 650 sites and have more than 15,000 users. Their 2021 revenue was AUD$23.52M
 
->Avaloq ( https://www.avaloq.com/en/home)
+> - Avaloq ( https://www.avaloq.com/en/home)
 A Swiss based global leader in digital banking solutions and wealth management technology. Provides cloud computing solutions through Software as a Service (SaaS) and Business Processing as a service (BPaaS). Global clientele includes more than 150 banks and wealth managers with around A$6.5 trillion in assets under management and have about AUD$753M revenue in 2021.
 
 
