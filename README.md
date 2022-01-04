@@ -27,10 +27,10 @@ In terms of wealth management offerings, their Composer is a world class adminis
 GBST provides a Software as a Service (SaaS) model via Amazon Web Services (AWS) cloud and has recently joined AWS Partnership Network (APN) within the Independent Software Vendors (ISV) pathway. The APN allows GBST to expedite their engagement with AWS and promote their solutions to customers
  In terms of website development, they have used the below listed technology to power their website:
 
-	- Web servers: IIS & LiteSpeed
-	- Operating systems and servers: Parallels Plesk Panel & QUIC
-	- Web hosting providers: Over The Wire, Hostopia & Digital Pacific
-	- JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader, Google Hosted Libraries & Featherlight
+	> Web servers: IIS & LiteSpeed
+	> Operating systems and servers: Parallels Plesk Panel & QUIC
+	>  Web hosting providers: Over The Wire, Hostopia & Digital Pacific
+	>  JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader, Google Hosted Libraries & Featherlight
 
 
 
