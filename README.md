@@ -30,8 +30,7 @@ GBST provides a Software as a Service (SaaS) model via Amazon Web Services (AWS)
 	> Web servers: IIS & LiteSpeed
 	> Operating systems and servers: Parallels Plesk Panel & QUIC
 	>  Web hosting providers: Over The Wire, Hostopia & Digital Pacific
-	>  JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader, 
-	Google Hosted Libraries & Featherlight
+	>  JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader & Featherlight
 
 
 
@@ -65,8 +64,9 @@ A Swiss based global leader in digital banking solutions and wealth management t
 
  to measure success in the wealth managment industry, companies often use various Key Performance Indicators (KPI) to compare with their competitors and themsevles to see how their company is tracking. some KPI includes Asset Under Management (AUM), client acquisition and retention, profit margin, revenue per client and management fee as a percentage of AUM.
 
-> AUM: it is not publicised of what GBST's overall AUM is, but in 2020, their Composer platform asset under management grew by 12% to just over EUR$150 billion in the UK as part of their strategic global expansion into the UK market. At the same time, they grew their active accounts by 8% to reach 3.2 million users in the year ended December 2020.
-> Annual revenue is a good indication to track a company’s growth rate from its previous years and to compare with competitors of similar size.
+> - AUM: it is not publicised of what GBST's overall AUM is, but in 2020, their Composer platform asset under management grew by 12% to just over EUR$150 billion in the UK as part of their strategic global expansion into the UK market. At the same time, they grew their active accounts by 8% to reach 3.2 million users in the year ended December 2020.
+
+> - Annual revenue is a good indication to track a company’s growth rate from its previous years and to compare with competitors of similar size.
 	
 Compared to Avaloq, GBST's AUM seems insignificant. But it is crucial to note that Avaloq is a larger scale company, employing more than 2,000 people compared to the 300 workers GBST employs. In terms of company size, GBST is much more similar to JMR Software and Profile Software and is outperforming both companies as their annual revenue sits at about $90M compared to JMR’s $20M and Profile Software’s $23.52M
 
