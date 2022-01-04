@@ -64,7 +64,7 @@ A Swiss based global leader in digital banking solutions and wealth management t
 
 To measure success in the wealth managment industry, companies often use various Key Performance Indicators (KPI) to compare with their competitors and themsevles to keep track of growth. These KPIs include Asset Under Management (AUM), client acquisition and retention, profit margin, revenue per client and management fee as a percentage of AUM.
 
-> - AUM: it is not publicised of what GBST's overall AUM is as the company was taken off ASX in 2019. But in 2020, their Composer platform asset under management grew by 12% to just over EUR$150 billion in the UK as part of their strategic global expansion into the UK market. At the same time, they grew their active accounts by 8% to reach 3.2 million users in the year ended December 2020.
+> - AUM: In 2020, GBST's asset under management grew by 12% to just over EUR$150 billion in the UK as part of their strategic global expansion into the UK market. At the same time, they grew their active accounts by 8% to reach 3.2 million users in the year ended December 2020.
 
 > - Annual revenue is a good indication to track a company’s growth rate from its previous years and to compare with competitors of similar size.
 	
