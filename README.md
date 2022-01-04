@@ -30,7 +30,8 @@ GBST provides a Software as a Service (SaaS) model via Amazon Web Services (AWS)
 	> Web servers: IIS & LiteSpeed
 	> Operating systems and servers: Parallels Plesk Panel & QUIC
 	>  Web hosting providers: Over The Wire, Hostopia & Digital Pacific
-	>  JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader, Google Hosted Libraries & Featherlight
+	>  JavaScript libraries and functions: Modernizr, Fitvids.JS, Classie, WebFont Loader, 
+	Google Hosted Libraries & Featherlight
 
 
 
@@ -47,13 +48,14 @@ Cybersecurity ventures predicted that global cyber security spending has been gr
 
 In terms of competition, below companies are in direct competition with GBST:
   
-	- JMR software ( https://www.jmr.co.za/)
+> JMR software ( https://www.jmr.co.za/)
 JMR software is an IT resource software established in 1987, and have evolved over the years to create their own technology solutions targeted at large enterprises and the financial services sector. Their 2021 revenue is AUD$20M
-	- Profile software ( https://www.profilesw.com/)
+	
+> Profile software ( https://www.profilesw.com/)
 Profile software is an international financial software provider, offering innovative technologies and implementation for modern banks, Fintech & Investment management industries. They operate in 45 countries with over 650 sites and have more than 15,000 users. Their 2021 revenue was AUD$23.52M
-	- Avaloq ( https://www.avaloq.com/en/home)
-A Swiss based global leader in digital banking solutions and wealth management technology. Provides cloud computing solutions through Software as a Service (SaaS) and Business Processing as a service (BPaaS). Global clientele includes more th
-	- an 150 banks and wealth managers with around A$6.5 trillion in assets under management and have about AUD$753M revenue in 2021.
+
+>Avaloq ( https://www.avaloq.com/en/home)
+A Swiss based global leader in digital banking solutions and wealth management technology. Provides cloud computing solutions through Software as a Service (SaaS) and Business Processing as a service (BPaaS). Global clientele includes more than 150 banks and wealth managers with around A$6.5 trillion in assets under management and have about AUD$753M revenue in 2021.
 
 
  ## Results: ##
@@ -63,8 +65,8 @@ A Swiss based global leader in digital banking solutions and wealth management t
 
  to measure success in the wealth managment industry, companies often use various Key Performance Indicators (KPI) to compare with their competitors and themsevles to see how their company is tracking. some KPI includes Asset Under Management (AUM), client acquisition and retention, profit margin, revenue per client and management fee as a percentage of AUM.
 
-	○ AUM: it is not publicised of what GBST's overall AUM is, but in 2020, their Composer platform asset under management grew by 12% to just over EUR$150 billion in the UK as part of their strategic global expansion into the UK market. At the same time, they grew their active accounts by 8% to reach 3.2 million users in the year ended December 2020.
-	○ Annual revenue is a good indication to track a company’s growth rate from its previous years and to compare with competitors of similar size.
+> AUM: it is not publicised of what GBST's overall AUM is, but in 2020, their Composer platform asset under management grew by 12% to just over EUR$150 billion in the UK as part of their strategic global expansion into the UK market. At the same time, they grew their active accounts by 8% to reach 3.2 million users in the year ended December 2020.
+> Annual revenue is a good indication to track a company’s growth rate from its previous years and to compare with competitors of similar size.
 	
 Compared to Avaloq, GBST's AUM seems insignificant. But it is crucial to note that Avaloq is a larger scale company, employing more than 2,000 people compared to the 300 workers GBST employs. In terms of company size, GBST is much more similar to JMR Software and Profile Software and is outperforming both companies as their annual revenue sits at about $90M compared to JMR’s $20M and Profile Software’s $23.52M
 
@@ -72,5 +74,4 @@ Compared to Avaloq, GBST's AUM seems insignificant. But it is crucial to note th
  ## Recommendations: ##
 
 
-In order to keep up to date with the ever growing financial world and the increase in adoption of cryptocurrency, it is recommended that GBST incorporate crypto asset and blockchain solutions into their offerings.  Reason being that cryptocurrency and blockchain is a disruptive technology which has not been widely adopted yet, and it would be beneficial for GBST to stay in the forefront as one of the leading companies to offer cryptocurrency capabilities to their clients. 
- Although there is scepticism around this technology, it is gradually being incorporated into the finance sector, especially bitcoin. Major companies such as Microsoft and Paypal have recently announced that they will accept bitcoin and Visa has approved the first Australian card for spending bitcoin. El Salvador has even adopted bitcoin as legal tender in June 2021. This additional offering will involve the incorporation of blockchain technology into their platform. Cryptocurrency can also provide diversity to client portfolios as it is slowly being adopted as an alternate investment class.
+In order to keep up to date with the ever growing financial world and the increase in adoption of cryptocurrency, it is recommended that GBST incorporate crypto asset and blockchain solutions into their offerings.  Reason being that cryptocurrency and blockchain is a disruptive technology which has not been widely adopted yet, and it would be beneficial for GBST to stay in the forefront as one of the leading companies to offer cryptocurrency capabilities to their clients. Although there is scepticism around this technology, it is gradually being incorporated into the finance sector, especially bitcoin. Major companies such as Microsoft and Paypal have recently announced that they will accept bitcoin and Visa has approved the first Australian card for spending bitcoin. El Salvador has even adopted bitcoin as legal tender in June 2021. This additional offering will involve the incorporation of blockchain technology into their platform. Cryptocurrency can also provide diversity to client portfolios as it is slowly being adopted as an alternate investment class.
